@@ -1,4 +1,2 @@
-Drupal 7.25 Hello World Module
+Drupal 7.26 Hello World Module
 =========================
-
-Hello World module using drupal 7.26
